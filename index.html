@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Hanged Man</title>
+  
+  
+  
+      <link rel="stylesheet" href="style.css">
+
+  
+</head>
+
+<body>
+  <h1>HANG THE MAN!<br>
+  YOU MUST SURVIVE!!</h1>
+<p id="field"></p>
+<form name="rateformular">
+<input name="ratetext" type="text" size="5" maxlength="1">
+<input name="ratebutton" type="button" value="Guess" onClick="guessButton()">
+
+<p id="wrong_check">Wrong Letters:</p>
+<img src="http://www.writteninpencil.de/Projekte/Hangman/hangman0.png" id="hangman"><br />
+<input name="refresh" type="button" value="New Game" onClick="location.reload()">
+</form>
+  
+    <script src="game.js"></script>
+
+</body>
+</html>

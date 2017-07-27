@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+
+body {
+  background: url('http://wallpapercave.com/wp/UTOt2ax.jpg') fixed;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+input {
+  border: 2px solid #FF0000;
+  font-family: Helvetica, sans-serif;
+  color: #FF0000;
+}
+
+#field {
+  font-family: 'Permanent Marker', 'cursive';
+  font-size: 2.0em;
+  color:#FF0000;
+}
+
+h1 {
+  font-family: 'Permanent Marker', 'cursive';
+  color:#FF0000;
+}
+
+#wrong_check {
+  color:#FF0000;
+}
