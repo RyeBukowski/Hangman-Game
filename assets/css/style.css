@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 
 body {
-  background: url('http://wallpapercave.com/wp/UTOt2ax.jpg') fixed;
+  background: url(../images/scary_background.jpg) fixed;
   text-align: center;
   font-family: Helvetica, sans-serif;
 }
